@@ -3,7 +3,6 @@ import { Resend } from 'resend';
 import htmlCssTemplate from '@/lib/emailTemplate';
 import { canSendEmailGlobal, incrementEmailCountGlobal } from '@/lib/emailLimiter';
 
-// Instancia de Resend usando tu API key
 const resend = new Resend(process.env.RESEND_API_KEY!);
 
 export async function POST(request: Request): Promise<Response> {
