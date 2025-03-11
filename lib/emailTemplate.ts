@@ -37,10 +37,10 @@ const htmlCssTemplate = `
         <h2>Introducción a HTML y CSS</h1>
       </div>
       <div class="content">
-        <h3>¿Qué es HTML?</h2>
+        <h3>¿Qué es HTML?</h3>
         <p>HTML, que significa HyperText Markup Language, es un lenguaje de marcado. Esto quiere decir que se utiliza para estructurar el contenido de una página web. Con HTML se definen elementos como títulos, párrafos, listas, imágenes y enlaces. Recuerda que HTML no es un lenguaje de programación; su función es organizar y dar sentido a la información.</p>
         
-        <h3>¿Qué es CSS?</h2>
+        <h3>¿Qué es CSS?</h3>
         <p>CSS (Cascading Style Sheets) es un lenguaje de estilos que se utiliza para describir la presentación de un documento escrito en HTML. CSS controla el diseño visual, incluyendo colores, fuentes, márgenes, y la disposición de los elementos en la página.</p>
         
         <h3>Historia y Evolución</h3>
