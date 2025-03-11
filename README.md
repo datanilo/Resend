@@ -15,7 +15,7 @@ Esta aplicación, desarrollada con Next.js, integra diversas tecnologías para g
 ---
   Link del proyecto desplegado
 
-  🔗 <https://.vercel.app/>
+  🔗 <https://resend.datanilo.tech>
 </div>
 
 -----
